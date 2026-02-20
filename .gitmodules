@@ -1,0 +1,9 @@
+[submodule "kafka-consumer"]
+	path = kafka-consumer
+	url = https://github.com/Digi-OHM/kafka-consumer.git
+[submodule "kafka-producer"]
+	path = kafka-producer
+	url = https://github.com/Digi-OHM/kafka-producer.git
+[submodule "kafka-images"]
+	path = kafka-images
+	url = https://github.com/Digi-OHM/kafka-images.git
